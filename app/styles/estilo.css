@@ -1,0 +1,39 @@
+.hi2{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: #cfd8dc;
+}
+
+.hi2>h2{
+	color: #00838f;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+}
+
+.linke{
+	font-size: 15px;
+	margin-left: 73em;
+	display: inline;
+
+}
+
+.jola{
+	border-right: 1px solid blue;
+	/*float: left;*/
+	width: 20px;
+	/*padding-right: 5px;*/
+}
+
+.nada{
+	padding-left: 5px;
+	text-decoration: none;
+	color: black;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
